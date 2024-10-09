@@ -1,7 +1,7 @@
 body {
-    font-family: "Roboto", sans-serif,
-    color: #434455
-    background-color:#fff
+    font-family: "Roboto", sans-serif;
+    color:#434455;
+    background-color:#FFFFFF;
 }
 
 ul,ol {
@@ -76,7 +76,7 @@ color: #fff;
     letter-spacing: 0.04em;
     color: #fff;
     cursor: pointer;
-    background-color: #4d4be5;
+    background-color: #4D5AE5
 }
 .hero-btn:hover,.hero-btn:focus {
     background-color: #404bbf;
@@ -104,11 +104,12 @@ color: #434455;
 }
 .taste-title {
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .taste-list{
@@ -166,14 +167,25 @@ color: #434455;
 }
 
 
-
-
-
-
-
-
-
-
 .page-footer {
     background-color: #2e2f42;
 }
+
+.logo-part{
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.footer-title {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+
+
